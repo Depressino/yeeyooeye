@@ -1,0 +1,5 @@
+.jfx-spinner .arc { -fx-stroke: linear-gradient(to top right, #5ed1e6 35%,  white 100%); }
+.jfx-spinner{
+     -fx-border-radius: 10pt;
+     -fx-background-radius: 10pt;
+}
