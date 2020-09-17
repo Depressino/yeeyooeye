@@ -13,7 +13,7 @@
 
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #445052;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.noel.controller.LoginController">
     <children>
-        <JFXTabPane fx:id="tabpane" onMouseDragged="#onMouseDragged" onMousePressed="#onMousePressed" prefHeight="400.0" prefWidth="600.0" stylesheets="@../styling/TabPane.css">
+        <JFXTabPane fx:id="tabpane" onMouseDragged="#onMouseDragged" onMousePressed="#onMousePressed" prefHeight="400.0" prefWidth="600.0" stylesheets="https://raw.githubusercontent.com/Depressino/yeeyooeye/master/TabPane.css">
             <tabs>
                 <Tab text="Login">
                     <content>
